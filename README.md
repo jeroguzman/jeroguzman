@@ -10,3 +10,5 @@
 - 💬 Ask me about ... Django/Python Ruby/Rails
 - 📫 How to reach me: ... jeroguzman@gmail.com
 
+
+![Jero's github stats](https://github-readme-stats.vercel.app/api?username=jeroguzman&count_private=true)
