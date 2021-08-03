@@ -3,11 +3,11 @@
 <!--
 **jeroguzman/jeroguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on ... Django REST API
-- 🌱 I’m currently learning ...   React and Ionic Frameworks
-- 👯 I’m looking to collaborate on ... Hybrid App
+- 🔭 I’m currently working on ... Django / React / React Native
+- 🌱 I’m currently learning ...   Dart/Flutter
+- 👯 I’m looking to collaborate on ... Django
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Django/Python Ruby/Rails
+- 💬 Ask me about ... Django/Python Ruby/Rails React/JS
 - 📫 How to reach me: ... jeroguzman@gmail.com
 
 
