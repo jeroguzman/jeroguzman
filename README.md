@@ -3,6 +3,9 @@
 <!--
 **jeroguzman/jeroguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+![Visitor Count](https://profile-counter.glitch.me/jeroguzman/count.svg)
+
+
 - 🔭 I’m currently working on ... Django / React / React Native
 - 🌱 I’m currently learning ...   Dart/Flutter
 - 👯 I’m looking to collaborate on ... Django
