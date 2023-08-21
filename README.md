@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! i'm Jeroben Guzman <img src="https://media0.giphy.com/media/WJ5WKNeww6Jeo/giphy.gif" width="80"></h2>
-<img align='right' src="https://media3.giphy.com/media/BHCFcibksBxAV0FDoL/giphy.gif" width="230">
+
 <p><em>Full-Stack Developer at Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
