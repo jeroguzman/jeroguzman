@@ -1,7 +1,6 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! i'm Jeroben Guzman <img src="https://media0.giphy.com/media/WJ5WKNeww6Jeo/giphy.gif" width="80"></h2>
+<h2>Hello! i'm Jeroben Guzman</h2>
 
-<p><em>Full-Stack Developer at Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Full-Stack Developer at Freelancer</em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/j0rbe3n?label=Follow)](https://twitter.com/intent/follow?screen_name=j0rbe3n)
 [![Linkedin: Jero Guzman](https://img.shields.io/badge/-jeroguzman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeroben-azhael-guzman-castillo-26bb5078/)](https://www.linkedin.com/in/jeroben-azhael-guzman-castillo-26bb5078/)
@@ -10,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jeroguzman.jeroguzman)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
+### About me...  
 
 ```javascript
 const jeroguzman = {
