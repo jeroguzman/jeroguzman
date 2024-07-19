@@ -19,7 +19,11 @@ const jeroguzman = {
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
-            python : ["Django", "Flask"]
+            python : ["Django", "Flask"],
+            ruby: ["Rails"]
+        },
+        frontend: {
+            js: ["React", "NextJs", "TailwindCSS"]
         },
         mobileApp: {
             js: ["React Native"]
