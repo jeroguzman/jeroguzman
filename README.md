@@ -28,6 +28,4 @@ const jeroguzman = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"]
 };
 ```
-| ![j0rbe3n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeroguzman&show_icons=true&theme=tokyonight) | ![j0rb3en GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeroguzman&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeroguzman&theme=tokyonight) |  |
+[j0rb3en GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeroguzman&theme=tokyonight)
