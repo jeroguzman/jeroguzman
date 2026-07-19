@@ -28,4 +28,4 @@ const jeroguzman = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"]
 };
 ```
-[j0rb3en GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeroguzman&theme=tokyonight)
+![j0rb3en GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeroguzman&theme=tokyonight)
